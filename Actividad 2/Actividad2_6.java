@@ -13,7 +13,8 @@ public class Actividad2_6 {
     	 *  
     	 * 127.0.0.1 = localhost.
     	 * 3306 = nº de puerto.
-    	 * Neo = el usuario (x2).
+    	 * Neo = el usuario.
+    	 * Neo (2) = ¿DATABASE?
     	 * NAS4 = la contraseña del usuario.
     	 * 
     	 */
